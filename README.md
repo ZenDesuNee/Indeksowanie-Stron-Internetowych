@@ -1,2 +1,2 @@
-# Indeksowanie-Stron-Internetowych
-Aplikacja zajmująca się indeksowaniem stron internetowych
+# Indeksowanie Stron Internetowych
+Aplikacja okienkowa Python zajmująca się indeksowaniem stron internetowych.
